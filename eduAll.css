@@ -1,0 +1,33 @@
+@font-face {
+    font-family: "eduAll";
+    font-weight: 300;
+    font-style: normal;
+    src: url("https://cdn.jsdelivr.net/gh/websfont/eduAll/eduAll-Light.eot");
+    src: url("https://cdn.jsdelivr.net/gh/websfont/eduAll/eduAll-Light.eot?#iefix") format("embedded-opentype"),
+         url("https://cdn.jsdelivr.net/gh/websfont/eduAll/eduAll-Light.woff2") format("woff2"),
+         url("https://cdn.jsdelivr.net/gh/websfont/eduAll/eduAll-Light.woff") format("woff"),
+         url("https://cdn.jsdelivr.net/gh/websfont/eduAll/eduAll-Light.ttf") format("truetype");
+    font-display: swap;
+} 
+@font-face {
+    font-family: "eduAll";
+    font-weight: 700;
+    font-style: normal;
+    src: url("https://cdn.jsdelivr.net/gh/websfont/eduAll/eduAll-Bold.eot");
+    src: url("https://cdn.jsdelivr.net/gh/websfont/eduAll/eduAll-Bold.eot?#iefix") format("embedded-opentype"),
+         url("https://cdn.jsdelivr.net/gh/websfont/eduAll/eduAll-Bold.woff2") format("woff2"),
+         url("https://cdn.jsdelivr.net/gh/websfont/eduAll/eduAll-Bold.woff") format("woff"),
+         url("https://cdn.jsdelivr.net/gh/websfont/eduAll/eduAll-Bold.ttf") format("truetype");
+    font-display: swap;
+} 
+.eduAll {
+    font-family: "eduAll";
+}
+.eduAll300 {
+    font-family: "eduAll";
+    font-weight: 300;
+}
+.eduAll700 {
+    font-family: "eduAll";
+    font-weight: 700;
+}
